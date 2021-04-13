@@ -12,12 +12,6 @@ There are different features are available in data defaults, different categorie
 And we have to predict that how many of them can pay the loan on the basis of previous data.
 For this I've used Logistic Regression and Random Forest Classifier too.
 
-### E-shop
-This project is based on Unsupervised Learning.
-This is based on the data of an e-commerce shop.
-I've tried to find some clusters on the basis of records but the results was not that good.
-Hope you guys will find something and also get back to me too.
-
 ### Iris Dataset
 This project is based on K Nearest Neighbour model.
 The data is not uploaded seperately because I've used it directly from pandas.
