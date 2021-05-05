@@ -35,3 +35,7 @@ Well this purely NLP project.
 I've tried it to learn more about processes in NLP on unstructured data like tokenization.
 Again you will not find any data here seperately because NLP has lots of data in itself.
 So you can get whatever the data you like.
+
+### Time Series Analysis
+Worked of Reliance stock market data.
+Used different techniques like AR, MA, models etc.
